@@ -68,7 +68,6 @@ marshmallow==3.19.0
 marshmallow-enum==1.5.1
 matplotlib==3.7.1
 mdurl==0.1.2
-MindsDB==23.4.4.3
 mindsdb-evaluator==0.0.8
 mindsdb-sdk==1.0.2
 mindsdb-streams==0.1.1
