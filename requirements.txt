@@ -1,56 +1,58 @@
-alembic                 1.10.4
-aniso8601               9.0.1
-appdirs                 1.4.4
-attrs                   23.1.0
-autopage                0.5.1
-backports.zoneinfo      0.2.1
-black                   21.12b0
-Brotli                  1.0.9
-certifi                 2021.5.30
-cffi                    1.15.1
-charset-normalizer      2.0.2
-checksumdir             1.2.0
-click                   7.1.2
-clickhouse-driver       0.2.5
-clickhouse-sqlalchemy   0.2.3
-cliff                   4.2.0
-cmaes                   0.9.1
-cmd2                    2.4.3
-colorama                0.4.6
-colorlog                6.5.0
-contextlib2             21.6.0
-contourpy               1.0.7
-cryptography            40.0.2
-cycler                  0.11.0
-dataclasses-json        0.5.7
-dataprep-ml             0.0.8
-Deprecated              1.2.13
-dill                    0.3.4
-dnspython               2.3.0
-duckdb                  0.4.0
-einops                  0.6.1
-et-xmlfile              1.1.0
-exceptiongroup          1.1.1
-filelock                3.12.0
-Flask                   1.1.4
-Flask-Compress          1.13
-flask-restx             1.1.0
-fonttools               4.39.3
-fsspec                  2023.4.0
-greenlet                2.0.2
-grpcio                  1.54.0
-grpcio-tools            1.48.2
-huggingface-hub         0.14.1
-idna                    3.2
-importlib-metadata      6.6.0
-importlib-resources     5.12.0
-iniconfig               2.0.0
-itsdangerous            1.1.0
-Jinja2                  2.11.3
-joblib                  1.2.0
-jsonschema              4.17.3
-kafka-python            2.0.2
-kiwisolver              1.4.4
+streamlit
+mindsdb_sdk
+alembic                 
+aniso8601               
+appdirs                 
+attrs                   
+autopage                
+backports.zoneinfo      
+black                   
+Brotli                  
+certifi                 
+cffi                    
+charset-normalizer      
+checksumdir             
+click                   
+clickhouse-driver       
+clickhouse-sqlalchemy   
+cliff                   
+cmaes                   
+cmd2                    
+colorama                
+colorlog                
+contextlib2             
+contourpy               
+cryptography            
+cycler                  
+dataclasses-json        
+dataprep-ml             
+Deprecated              
+dill                    
+dnspython               
+duckdb                  
+einops                  
+et-xmlfile              
+exceptiongroup          
+filelock                
+Flask                   
+Flask-Compress          
+flask-restx             
+fonttools               
+fsspec                  
+greenlet                
+grpcio                  
+grpcio-tools            
+huggingface-hub         
+idna                    
+importlib-metadata      
+importlib-resources     
+iniconfig               
+itsdangerous            
+Jinja2                  
+joblib                  
+jsonschema              
+kafka-python            
+kiwisolver              
 langid                  1.1.6
 lightwood               23.4.3.0
 llvmlite                0.39.1
