@@ -3,15 +3,14 @@ import mindsdb_sdk
 import pandas as pd
 
 # Connecting to MindsDB
-server = mindsdb_sdk.connect('https://cloud.mindsdb.com', login='salimoyinlola@gmail.com', password='')
+server = mindsdb_sdk.connect('https://cloud.mindsdb.com', login='salimoyinlola@gmail.com', password='+85758008Eg')
 project = server.get_project("mindsdb")
 model = project.list_models()[4] #Selecting the model to use. The index 4 is used because this is the fifth model in the list of models
 
 
 # Web App title
-st.title("QWERTY Churn Predict")
+st.title("QWERTY Churn Predictor")
 st.subheader("A Machine Learning App that predicts which customers are likely to stop using a bank")
-st.subheader("Enter the Following Details")
 
 # Retrieving Input from user
 credit_score = st.sidebar.slider("Credit Score", min_value=350, max_value=850)
