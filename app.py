@@ -3,7 +3,7 @@ import mindsdb_sdk
 import pandas as pd
 
 # Connecting to MindsDB
-server = mindsdb_sdk.connect('https://cloud.mindsdb.com', login='salimoyinlola@gmail.com', password='+85758008Eg')
+server = mindsdb_sdk.connect('https://cloud.mindsdb.com', login='salimoyinlola@gmail.com', password='qweryuiop12345')
 project = server.get_project("mindsdb")
 model = project.list_models()[4] #Selecting the model to use. The index 4 is used because this is the fifth model in the list of models
 
